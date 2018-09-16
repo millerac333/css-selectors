@@ -1,7 +1,7 @@
 # CSS-selectors
 ## Book 2 Chapter 5 CSS selectors 
 
-### Practice
+### Practice Instructions 
 1. The header element should have a 1px, goldenrod border.
 2. Convert the ul in the navigation element into a series of horizontal links with # as the href value, without bullets, and have some space between them horizontally.
 3. Ensure that the navigation is semantically marked as such (i.e. wrap it in the correct HTML tag).
