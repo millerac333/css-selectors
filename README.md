@@ -19,3 +19,7 @@
 
 Note: You are not allowed to add id and class attributes to any component
 
+### Run Program 
+
+1. run in code editor 
+2. launch in browser
